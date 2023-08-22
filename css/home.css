@@ -1,0 +1,12 @@
+@import url(tags.css);
+@import url(utilitarios.css);
+
+.perfil>div{
+  height: 500px;
+  background-color: gray;
+}
+
+.foto-perfil{
+  border-radius: 50%;
+  width: 300px;
+}
